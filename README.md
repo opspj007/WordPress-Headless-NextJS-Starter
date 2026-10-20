@@ -1,5 +1,5 @@
-# WordPress-Headless-NextJS-Starter
-![Uploading Screenshot (377).png…]()
+<img width="1920" height="846" alt="Screenshot (377)" src="https://github.com/user-attachments/assets/9b43c8ab-10cf-4ec8-bede-1a9c780f4cf4" /># WordPress-Headless-NextJS-Starter
+[Uploading Screenshot (377).png…]()
 
 
 **An Enterprise-Grade Headless WordPress + Next.js 15 Architecture Lab**
