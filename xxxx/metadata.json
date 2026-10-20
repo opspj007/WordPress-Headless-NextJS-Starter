@@ -1,0 +1,6 @@
+{
+  "name": "WordPress-Headless-NextJS-Starter",
+  "description": "Enterprise-grade WordPress + Next.js Headless architecture starter featuring WPGraphQL & REST API, Custom Post Types, ISR caching & on-demand revalidation, dynamic routes, SEO & XML sitemaps, image optimization, and JWT auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
